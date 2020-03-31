@@ -1,6 +1,6 @@
 const createCsvWriter = require('csv-writer').createObjectCsvWriter;
 const csvWriter = createCsvWriter({
-    path: '../../data/processed/odeJoy_raw.csv',
+    path: '../../data/processed/Potter1_en_raw.csv',
     header: [
         {id: 'content', title: 'content'},
     ],
@@ -17,7 +17,7 @@ function printRows() {
     .forEach(y => console.log((rows[y] || []).join(""))); 
 }
  
-new pdfreader.PdfReader().parseFileItems("../../data/raw/odeJoy.pdf", function(
+new pdfreader.PdfReader().parseFileItems("../../data/raw/Potter1_en.pdf", function(
   err,
   item
 ) {

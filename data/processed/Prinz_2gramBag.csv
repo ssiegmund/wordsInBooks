@@ -35,11 +35,11 @@ bigram,freq
 "('die', 'menschen')",14
 "('ist', 'es')",13
 "('wenn', 'man')",13
+"('ein', 'schaf')",13
 "('du', 'bist')",13
 "('und', 'sie')",13
 "('als', 'ich')",12
 "('mit', 'dem')",12
-"('ein', 'schaf')",12
 "('dass', 'ich')",12
 "('es', 'nicht')",12
 "('dass', 'er')",12
@@ -265,6 +265,7 @@ bigram,freq
 "('nicht', 'sonderlich')",4
 "('auf', 'einen')",4
 "('dem', 'ich')",4
+"('weil', 'ich')",4
 "('im', 'sand')",4
 "('meilen', 'entfernt')",4
 "('und', 'schaute')",4
@@ -286,6 +287,7 @@ bigram,freq
 "('kommst', 'du')",4
 "('anderen', 'planeten')",4
 "('nicht', 'er')",4
+"('was', 'für')",4
 "('du', 'es')",4
 "('prinz', 'das')",4
 "('von', 'ihnen')",4
@@ -408,13 +410,13 @@ bigram,freq
 "('zu', 'tun')",3
 "('ich', 'wollte')",3
 "('ich', 'vor')",3
-"('weil', 'ich')",3
 "('es', 'für')",3
 "('ich', 'bei')",3
 "('bitte', 'zeichne')",3
 "('schaf', 'ich')",3
 "('hin', 'und')",3
 "('ihm', 'zu')",3
+"('ist', 'meine')",3
 "('die', 'großen')",3
 "('ich', 'schaute')",3
 "('auf', 'diese')",3
@@ -447,7 +449,6 @@ bigram,freq
 "('nicht', 'von')",3
 "('was', 'er')",3
 "('du', 'mir')",3
-"('was', 'für')",3
 "('mir', 'und')",3
 "('lernte', 'ich')",3
 "('ich', 'eine')",3
@@ -624,6 +625,7 @@ bigram,freq
 "('den', 'ich')",3
 "('prinz', 'guten')",3
 "('antwortete', 'das')",3
+"('das', 'echo')",3
 "('und', 'dabei')",3
 "('unter', 'dem')",3
 "('ein', 'fuchs')",3
@@ -727,7 +729,6 @@ bigram,freq
 "('das', 'ich')",2
 "('von', 'ihm')",2
 "('zu', 'stande')",2
-"('ist', 'meine')",2
 "('haben', 'mich')",2
 "('mich', 'von')",2
 "('von', 'meiner')",2
@@ -1034,6 +1035,7 @@ bigram,freq
 "('und', 'am')",2
 "('wieder', 'verschwunden')",2
 "('ganz', 'genau')",2
+"('bald', 'schon')",2
 "('prinz', 'sah')",2
 "('er', 'fühlte')",2
 "('doch', 'die')",2
@@ -1305,6 +1307,7 @@ bigram,freq
 "('dass', 'etwas')",2
 "('von', 'baldigem')",2
 "('baldigem', 'verschwinden')",2
+"('verschwinden', 'bedroht')",2
 "('hat', 'nur')",2
 "('nur', 'vier')",2
 "('dornen', 'um')",2
@@ -1364,7 +1367,6 @@ bigram,freq
 "('hohen', 'berg')",2
 "('tag', 'guten')",2
 "('tag', 'antwortete')",2
-"('das', 'echo')",2
 "('ihr', 'wer')",2
 "('er', 'ich')",2
 "('allein', 'ich')",2
@@ -2051,8 +2053,7 @@ bigram,freq
 "('zeichnen', 'könne')",1
 "('könne', 'er')",1
 "('nichts', 'zeichne')",1
-"('ein', 'schafweil')",1
-"('schafweil', 'ich')",1
+"('schaf', 'weil')",1
 "('ich', 'niemals')",1
 "('niemals', 'ein')",1
 "('schaf', 'gezeichnet')",1
@@ -3951,7 +3952,6 @@ bigram,freq
 "('affenbrotbaumes', 'sein')",1
 "('sein', 'doch')",1
 "('doch', 'bald')",1
-"('bald', 'schon')",1
 "('schon', 'hörte')",1
 "('hörte', 'der')",1
 "('der', 'strauch')",1
@@ -4086,8 +4086,8 @@ bigram,freq
 "('frischem', 'wasser')",1
 "('wasser', 'um')",1
 "('blume', 'zu')",1
-"('zu', 'gießenbald')",1
-"('gießenbald', 'schon')",1
+"('zu', 'gießen')",1
+"('gießen', 'bald')",1
 "('schon', 'nervte')",1
 "('nervte', 'sie')",1
 "('mit', 'ihrer')",1
@@ -5586,8 +5586,9 @@ bigram,freq
 "('dritte', 'mal')",1
 "('mal', 'ah')",1
 "('da', 'haben')",1
-"('haben', 'wirs')",1
-"('wirs', 'ich')",1
+"('haben', 'wir')",1
+"('wir', 's')",1
+"('s', 'ich')",1
 "('war', 'bei')",1
 "('bei', 'fünfhunderteiner')",1
 "('fünfhunderteiner', 'million')",1
@@ -5969,8 +5970,9 @@ bigram,freq
 "('ist', 'vorschrift')",1
 "('vorschrift', 'guten')",1
 "('machte', 'die')",1
-"('laterne', 'ausdann')",1
-"('ausdann', 'wischte')",1
+"('laterne', 'aus')",1
+"('aus', 'dann')",1
+"('dann', 'wischte')",1
 "('wischte', 'er')",1
 "('sich', 'mit')",1
 "('einem', 'rotkarierten')",1
@@ -6546,10 +6548,8 @@ bigram,freq
 "('er', 'einmal')",1
 "('hatte', 'das')",1
 "('bedeutet', 'dass')",1
-"('verschwinden', 'bedrohtist')",1
-"('bedrohtist', 'meine')",1
+"('bedroht', 'ist')",1
 "('ist', 'von')",1
-"('verschwinden', 'bedroht')",1
 "('bedroht', 'natürlich')",1
 "('natürlich', 'meine')",1
 "('ist', 'vergänglich')",1
@@ -7096,8 +7096,7 @@ bigram,freq
 "('freunde', 'ich')",1
 "('allein', 'sagte')",1
 "('allein', 'antwortete')",1
-"('das', 'echowas')",1
-"('echowas', 'für')",1
+"('echo', 'was')",1
 "('ein', 'komischer')",1
 "('komischer', 'planet')",1
 "('planet', 'dachte')",1
@@ -7185,8 +7184,9 @@ bigram,freq
 "('gleich', 'aussahen')",1
 "('aussahen', 'in')",1
 "('einem', 'einzigen')",1
-"('einzigen', 'gartensie')",1
-"('gartensie', 'wäre')",1
+"('einzigen', 'garten')",1
+"('garten', 'sie')",1
+"('sie', 'wäre')",1
 "('wäre', 'sicher')",1
 "('sicher', 'beleidigt')",1
 "('beleidigt', 'sagte')",1

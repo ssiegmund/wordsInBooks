@@ -183,5 +183,5 @@ ehthumbs.db
 # Folder config file
 Desktop.ini
 
-# exclude pdfs in raw data
-/data/raw/*.pdf
+# exclude data
+/data/*
